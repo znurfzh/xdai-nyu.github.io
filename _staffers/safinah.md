@@ -5,7 +5,7 @@ email: safinah.ali@nyu.edu
 website: https://safinahali.com/
 photo: safinah.JPG
 meta:
-  Office Hours: Friday 12.30 PM
+  Office Hours: Friday 12:30 PM - 2:00 PM
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->
