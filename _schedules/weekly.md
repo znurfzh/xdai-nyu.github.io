@@ -36,10 +36,11 @@ schedule:
         location: 370 Jay St, Room 540
   - name: Wednesday
   - name: Thursday
-  - name: Friday
     events:
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 370 Jay St, Room 530
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Zoom
+  - name: Friday
+
 ---

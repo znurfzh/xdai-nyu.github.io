@@ -19,4 +19,5 @@ Feb 4
 <!-- Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red } -->
+: **HW 1 due**{: .label .label-red }
+ -->
