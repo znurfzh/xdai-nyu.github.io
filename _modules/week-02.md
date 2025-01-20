@@ -7,7 +7,7 @@ Feb 11
   : [3.1](#), [2.2](#), [2.3](#)
 
 Feb 18
-: **Section**{: .label .label-purple }[AI in Learning I](#)
+: [AI in Learning I](#)
   : [Solution](#)
 
 Feb 25

@@ -4,15 +4,15 @@ title: Designing AI Systems
 
 Jan 21
 : [Introduction to Experience Design and AI](#)
-  : [1.1](#)
+  : [Assignment 1: Due 1/27](https://drive.google.com/drive/folders/1ABT0CudvDmRTKHt4jS1QjwobWGbnJB8s?usp=drive_link), [Reading reflections](#)
 
 Jan 28
 : [Designing Human-centered AI - I](#)
-  : [Solution](#)
+  : [Assignment 2: Due 2/3](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 Feb 4
 : **Remote**{: .label .label-purple }[ Designing Human-centered AI - II; Guest Lecture: Dr. Sooyeon Jeong](#)
-  : [1.2](#), [2.1](#)
+  : [Assignment 3: Due 2/10](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 
 
