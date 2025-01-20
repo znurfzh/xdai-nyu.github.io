@@ -25,14 +25,14 @@ schedule:
   - name: Monday
     events:
       - name: Assignment Due
-        start: 4:30 PM
+        start: 4:00 PM
         end: 5:00 PM
         location: Online
   - name: Tuesday
     events:
       - name: Lecture
         start: 5:30 PM
-        end: 7:00 PM
+        end: 6:45 PM
         location: 370 Jay St, Room 540
   - name: Wednesday
   - name: Thursday
