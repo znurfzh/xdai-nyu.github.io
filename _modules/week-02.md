@@ -1,20 +1,20 @@
 ---
-title: Basic Data Structures
+title: AI in Learning
 ---
 
-Oct 5
+Feb 11
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
+Feb 18
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
 
-Oct 7
+Feb 25
 : [Resizing Arrays](#)
   : [2.4](#), [2.5](#)
 
-Oct 8
+March 4
 : **Lab**{: .label .label-purple } [Resizing Arrays](#)
 
 Oct 9

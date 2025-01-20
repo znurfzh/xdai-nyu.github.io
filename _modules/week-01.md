@@ -1,16 +1,16 @@
 ---
-title: Introduction to Java
+title: Designing AI Systems
 ---
 
-Sep 28
+Jan 21
 : [Java & Git](#)
   : [1.1](#)
 
-Sep 29
+Jan 28
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
+Feb 4
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
