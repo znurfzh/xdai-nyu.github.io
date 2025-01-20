@@ -39,7 +39,7 @@ collections:
   staffers:
   modules:
   schedules:
-  announcements:
+  curriculum:
 # Default layouts for each collection type
 defaults:
   - scope:

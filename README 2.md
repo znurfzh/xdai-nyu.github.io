@@ -12,7 +12,6 @@ seo:
 
 This is the class website where the assignments, announcements, schedules, ofice hours, etc. will be posted. Here are some important links: 
 
-- [announcements](announcements.md)
 - [course calendar](calendar.md)
 - [weekly schedule](schedule.md)
 - [curriculum](curriculum.md)
