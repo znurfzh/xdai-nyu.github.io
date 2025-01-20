@@ -7,17 +7,16 @@ Jan 21
   : [1.1](#)
 
 Jan 28
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: [Designing Human-centered AI - I](#)
   : [Solution](#)
 
 Feb 4
-: [Variables & Objects](#)
+: **Remote**{: .label .label-purple }[ Designing Human-centered AI - II; Guest Lecture: Dr. Sooyeon Jeong](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
 
-Oct 2
+
+<!-- Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **HW 1 due**{: .label .label-red } -->

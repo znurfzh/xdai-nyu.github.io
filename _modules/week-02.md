@@ -3,11 +3,11 @@ title: AI in Learning
 ---
 
 Feb 11
-: [Linked Lists & Encapsulation](#)
+: [Technology in Learning](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
 Feb 18
-: **Section**{: .label .label-purple }[Linked Lists](#)
+: **Section**{: .label .label-purple }[AI in Learning I](#)
   : [Solution](#)
 
 Feb 25
@@ -15,9 +15,10 @@ Feb 25
   : [2.4](#), [2.5](#)
 
 March 4
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+: **Remote**{: .label .label-purple } [AI in Learning II](#)
 
-Oct 9
+<!-- March 11
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
+ -->
