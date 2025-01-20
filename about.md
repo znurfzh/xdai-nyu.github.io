@@ -44,7 +44,7 @@ Each week will consist of an assigned reading reflections and assignment (unless
 
 ## Course Expectations
 
-### Required: 
+### Required 
 - Weekly in-person weekly class meeting
 - Weekly reading assignments will be available online (Due 24 hours prior to the class meeting: Monday at 5:00 PM EST)
 - Weekly mini-assignment (Due 24 hours prior to the class meeting: Monday at 5:00 PM EST)
@@ -52,7 +52,7 @@ Each week will consist of an assigned reading reflections and assignment (unless
 - Final project paper
 - Final project source materials or code repository 
 
-### Optional: 
+### Optional
 - Weekly office hours 
 - Supplemental reading 
 
@@ -66,13 +66,16 @@ Each week will consist of an assigned reading reflections and assignment (unless
 
 ## Evaluation Criteria
 
-### A = Excellent
+**A = Excellent**
 This work demonstrates comprehensive and solid understanding of course material and presents thoughtful interpretations, well-focused and original insights and well-reasoned analysis. “A’ work includes skillful use of source materials and illuminating examples and illustrations. “A” work is fluent, thorough and shows some creative flair.
-### B = Good
+
+**B = Good**
 This work demonstrates a complete and accurate understanding of course material, presenting a reasonable degree of insight and broad level of analysis. Work reflects competence, but stays at a general or predictable level of understanding. Source material, along with examples and illustrations, are used appropriately. “B” work is reasonable, clear, appropriate and complete.
-### C = Adequate/Fair
+
+**C = Adequate/Fair**
 This work demonstrates a basic understanding of course material but remains incomplete, superficial or expresses some important errors or weaknesses. Source material may be used inadequately or somewhat inappropriately. The work may lack concrete, specific examples and illustrations and may be hard to follow or vague.
-### D = Unsatisfactory
+
+**D = Unsatisfactory**
 This work demonstrates a serious lack of understanding and fails to demonstrate the most rudimentary elements of the course assignment. Sources may be used inappropriately or not at all. The work may be inarticulate or extremely difficult to read.
 
 Grade percentage equivalents: A 93-100, A- 90-92, B+ 87-89, B 83-86, B- 80-82, C+ 77-79, C 73-76, C- 70-72, D+ 67-69, D 63-66, D- 60-62, F Below 60
@@ -83,7 +86,7 @@ Grade percentage equivalents: A 93-100, A- 90-92, B+ 87-89, B 83-86, B- 80-82, C
 ### Late Submissions 
 Late work will result in a reduction of 15% of that assignment per day late. Reviewing work off-schedule as well as tracking down missing work significantly detracts from time I could spend on class planning, providing feedback on student work, and meeting with students.
 
-You are granted late extensions in cases of illness, family obligations, religious observance, or other events that fall under the University guidelines for an excused absence. If you have a good reason for needing more time, please let me know as soon as possible *BEFORE* the due date. Please communicate your time extension needs as soon as you are able to. I will do my best to support you in being able to get the most out of this course, and try to provide accommodations whenever possible. 
+You are granted late extensions in cases of illness, family obligations, religious observance, or other events that fall under the University guidelines for an excused absence. If you have a good reason for needing more time, please let me know as soon as possible **BEFORE** the due date. Please communicate your time extension needs as soon as you are able to. I will do my best to support you in being able to get the most out of this course, and try to provide accommodations whenever possible. 
 
 ### Academic Dishonesty
 "Academic integrity is the guiding principle for all that you do…. You violate the principle when you: cheat on an exam; submit the same work for two different courses without prior permission from your professors; receive help on a take-home that calls for independent work; or plagiarize. Plagiarism, whether intended or not, is academic fraud. You plagiarize when, without proper attribution, you do any of the following: copy verbatim from a book, article, or other media; download documents from the Internet; purchase documents; paraphrase or restate someone else’s facts, analysis, and/or conclusions; copy directly from a classmate or allow a classmate to copy form you." (See School of Education Bulletin, 2006/8, p. 172) or [steinhardt.nyu.edu/policies/academic_integrity](steinhardt.nyu.edu/policies/academic_integrity). 
