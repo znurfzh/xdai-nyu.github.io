@@ -31,7 +31,7 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 5:30 PM
+        start: 5:00 PM
         end: 6:45 PM
         location: 370 Jay St, Room 540
   - name: Wednesday
@@ -40,7 +40,7 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 3:00 PM
-        location: Zoom
+        location: [Zoom](https://nyu.zoom.us/j/92731158674)
   - name: Friday
 
 ---
