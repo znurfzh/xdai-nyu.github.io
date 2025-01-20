@@ -6,9 +6,7 @@ description: A feed containing all of the class announcements.
 
 # Curriculum
 
-Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
-
-{% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
+{% for module in site.curriculum %}
+{{ module }}
 {% endfor %}
+
