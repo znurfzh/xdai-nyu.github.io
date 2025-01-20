@@ -29,16 +29,15 @@ schedule:
         end: 5:00 PM
         location: Online
   - name: Tuesday
-  events:
+    events:
       - name: Lecture
         start: 5:30 PM
-        end: 6:45 PM
+        end: 7:00 PM
         location: 370 Jay St, Room 540
   - name: Wednesday
   - name: Thursday
   - name: Friday
     events:
-
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM

@@ -3,7 +3,7 @@ title: Designing AI Systems
 ---
 
 Jan 21
-: [Java & Git](#)
+: [Introduction to Experience Design and AI](#)
   : [1.1](#)
 
 Jan 28
