@@ -10,8 +10,7 @@ This introductory class will go over the course syllabus, course expectations, a
 ## In-class Activity
 Speculate AI Futures: Working with partners, students will speculate on a futuristic learning environment, and how they would incorporate technology into this system to make it their ideal learning environment, and share with the class. 
 
-## Readings
-No readings prior to the introductory class. 
+*No readings prior to the introductory class.*
 
 
 <!-- 1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
