@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Curriculum
-nav_exclude: true
 description: A feed containing all of the class announcements.
 ---
 
