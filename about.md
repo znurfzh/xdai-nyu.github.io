@@ -32,4 +32,7 @@ Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mat
 
 ## Assignments
 
-Each week will have an assigned reading and assignment (unless specified otherwise). You may find the readings, assignments, and due dates in the course curriculum. All assignments can be submitted on the group Google Drive. All reading reflections and assignments will be due 24 hours prior to the class (5 pm on Mondays). 
+Each week will consist of an assigned reading and assignment (unless specified otherwise). You may find the readings, assignments, and due dates in the course curriculum. All assignments can be submitted on the group Google Drive. All reading reflections and assignments will be due 24 hours prior to the class (5 pm on Mondays). 
+
+## Assignments
+
