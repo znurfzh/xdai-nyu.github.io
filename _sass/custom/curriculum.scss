@@ -1,11 +1,11 @@
-.announcement {
+.curriculum {
   @extend %card;
 
   h1, h2 {
     @extend .text-gamma;
   }
 
-  .announcement-meta {
+  .curriculum-meta {
     @extend .text-epsilon;
   }
 }

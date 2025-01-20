@@ -62,9 +62,9 @@ defaults:
       layout: schedule
   - scope:
       path: ''
-      type: announcements
+      type: curriculum
     values:
-      layout: announcement
+      layout: curriculum
 
 compress_html:
   clippings: all
