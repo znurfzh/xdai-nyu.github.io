@@ -24,5 +24,5 @@ Code activity (Jupyter Notebook) - Consider guiding design principles of your le
 ## Project Update
 Ideate on final project ideas, and prepare two minute pitches for their final projects that includes their target learner, interaction modality, and learning objectives. Students will form groups of 2-3 based on interest alignment. 
 
-*Nothing is due, just come ready with your pitches for next week!*  
+*Project update is not due, just come ready with your pitches for next week!*  
 

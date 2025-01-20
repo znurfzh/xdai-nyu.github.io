@@ -4,15 +4,15 @@ title: AI in Learning
 
 Feb 11
 : [Technology in Learning](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+  : [Assignment 4: Due 2/17](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 Feb 18
 : [AI in Learning I](#)
-  : [Solution](#)
+  : [Assignment 5: Due 2/24](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 Feb 25
 : [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+  : [Assignment 6: Due 3/3](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 March 4
 : **Remote**{: .label .label-purple } [AI in Learning II](#)
