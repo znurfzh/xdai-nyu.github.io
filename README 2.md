@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Experience Design and AI
+title: Experience Design and Artificial Intelligence (XDAI)
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,17 +8,24 @@ seo:
   name: XDAI
 ---
 
-# Experience Design and AI
+# Experience Design and Artificial Intelligence (XDAI)
 
 This is the class website where the assignments, announcements, schedules, ofice hours, etc. will be posted. Here are some important links: 
 
+- Course number: EDCT-GE 2114 (3 credits), Section 001
+- Class: #7153, 
+- Location: 370 Jay Street, Room 540
+- Instructor: Safinah Ali
+- Schedule: Tuesdays, 5:00-6:45 pm
+
+## Important Links:
 - [course calendar](calendar.md)
 - [weekly schedule](schedule.md)
 - [curriculum](curriculum.md)
 - [slack channel](https://ectnyu.slack.com/archives/C08A4NVRWL8)
 - [assignment submission folder](https://drive.google.com/drive/folders/10QJY4eDSQVoGuU9s-fj3FHR63pGw777z?usp=drive_link)
 
-## Pre-class to-do: 
+## Pre-class To-do: 
 - Carry your laptop to the class. 
 - Join the class [Slack channel](https://ectnyu.slack.com/archives/C08A4NVRWL8) 
 - Request edit access to the [Google Drive Assignment folder](https://drive.google.com/drive/folders/10QJY4eDSQVoGuU9s-fj3FHR63pGw777z?usp=drive_link)

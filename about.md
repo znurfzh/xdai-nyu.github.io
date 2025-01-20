@@ -58,7 +58,7 @@ Each week will consist of an assigned reading reflections and assignment (unless
 
 ## Grading 
 
-- Mini-assignments (40%)
+- Mini-assignments & project updates (40%)
 - Final project paper and materials (30%)
 - Class participation including online discussion and class presentations (20%)
 - Final project presentation (10%)
