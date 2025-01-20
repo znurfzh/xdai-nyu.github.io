@@ -40,7 +40,7 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 3:00 PM
-        location: [Zoom](https://nyu.zoom.us/j/92731158674)
+        location: Zoom - https://nyu.zoom.us/j/92731158674
   - name: Friday
 
 ---

@@ -13,9 +13,6 @@ Speculate AI Futures: Working with partners, students will speculate on a futuri
 ## Readings
 No readings prior to the introductory class. 
 
-## Take-home Assignment
-Code activity (Jupyter Notebook) - Introduction to using AI APIs. Through a guided code notebook, students will be able to use AI APIs to design a learning chatbot (e.g. a history bot that guesses a historical figure or event). This activity will also get students up to speed with Python programming. 
-
 
 <!-- 1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
 1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
