@@ -3,7 +3,7 @@ name: Safinah Ali
 role: Instructor
 email: safinah.ali@nyu.edu
 website: https://safinahali.com/
-photo: safinah.jpg
+photo: safinah.JPG
 meta:
   Office Hours: Friday 12.30 PM
 ---
