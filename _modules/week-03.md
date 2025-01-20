@@ -11,7 +11,7 @@ March 18
   : [Assignment 8: Due 3/24](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 March 25
-: **Spring Break**{: .label .label-green }[No class](#)
+: **Spring Break**{: .label .label-green }
   : Enjoy the break! 
 
 April 1

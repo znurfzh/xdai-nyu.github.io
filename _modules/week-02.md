@@ -11,11 +11,11 @@ Feb 18
   : [Assignment 5: Due 2/24](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 Feb 25
-: [Resizing Arrays](#)
+: [AI in Learning II](#)
   : [Assignment 6: Due 3/3](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 March 4
-: **Remote**{: .label .label-purple } [AI in Learning II](#)
+: **Remote**{: .label .label-purple } [TBD](#)
 
 <!-- March 11
 : [Runtime Analysis](#)
