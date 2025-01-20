@@ -1,5 +1,5 @@
 ---
-title: Building blocks of AI: Neural Networks 
+title: Building Blocks of AI - Neural Networks
 week: 8
 date: 2025-03-11
 ---
@@ -10,7 +10,7 @@ How does the AI work? Students learn about what different terms such as big data
 Students play the contours to classification game, where students act as nodes in a neural network, and participate in a feedforward and backpropagation process to simulate an Artificial Neural Network. Students also use transfer learning in Teachable Machines to train their own classification algorithm. Students are then asked to reflect how they could use a tool such as Teachable Machines in their teaching/learning process. 
 
 
-## Week 7 Readings
+## Week 8 Readings
 1. Lee, I., & Ali, S. (2021, May). The contour to classification game. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 15583-15590).
 **Reading Reflection: []()** *(due on 03/10, 5:00 PM EST)*
 
