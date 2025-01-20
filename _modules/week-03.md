@@ -15,8 +15,8 @@ March 25
   : [Solution](#)
 
 April 1
-: [How Large Language Models work](#)
+: **Prank Day**{: .label .label-yellow } [How Large Language Models work](#)
   : [2.4](#), [2.5](#)
 
 April 8
-: **Prank Day**{: .label .label-purple } [Making with AI](#)
+: [Making with AI](#)
