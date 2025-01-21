@@ -4,7 +4,7 @@ title: Designing AI Systems
 
 Jan 21
 : [Introduction to Experience Design and AI](#)
-  : [Assignment 1: Due 1/27](https://drive.google.com/drive/folders/1ABT0CudvDmRTKHt4jS1QjwobWGbnJB8s?usp=drive_link), [Reading reflections](#)
+  : [Assignment 1: Due 1/27](https://drive.google.com/drive/folders/1ABT0CudvDmRTKHt4jS1QjwobWGbnJB8s?usp=drive_link), [Reading reflections](https://forms.gle/ERvUbYe4GREuaSE39)
 
 Jan 28
 : [Designing Human-centered AI - I](#)

@@ -15,9 +15,9 @@ We often hear of the human and AI dichotomy, but can they flourish in tandem? St
 1. [Riedl, M. O. (2019). Human‐centered artificial intelligence and machine learning. Human behavior and emerging technologies, 1(1), 33-36.](https://faculty.cc.gatech.edu/~riedl/pubs/hbet.pdf)
 1. [Ehsan, U., Liao, Q. V., Muller, M., Riedl, M. O., & Weisz, J. D. (2021, May). Expanding explainability: Towards social transparency in ai systems. In Proceedings of the 2021 CHI conference on human factors in computing systems (pp. 1-19).](https://dl.acm.org/doi/pdf/10.1145/3411764.3445188)
 
-**Reading Reflection: []()** *(due on 01/27, 5:00 PM EST)*
+**Reading Reflection: [https://forms.gle/ERvUbYe4GREuaSE39](https://forms.gle/ERvUbYe4GREuaSE39)** *(due on 01/27, 5:00 PM EST)*
 
 ## Assignment 1
 Code activity (Jupyter Notebook) - Introduction to using AI APIs. Through a guided code notebook, students will be able to use AI APIs to design a learning chatbot (e.g. a history bot that guesses a historical figure or event). This activity will also get students up to speed with Python programming.
 
-**Assignment Submission: []()** *(due on 01/27, 5:00 PM EST)*
+**[Assignment Submission:](https://drive.google.com/drive/folders/1ABT0CudvDmRTKHt4jS1QjwobWGbnJB8s?usp=drive_link)** *(due on 01/27, 5:00 PM EST)*
