@@ -28,7 +28,7 @@ This course has five key elements: (1) Fundamentals of AI, (2) Designing Human-c
 
 ## Expected Learning Outcomes
 
-- Students should be able to:
+Students should be able to:
 - Identify key processes in the working of machine learning systems 
 - Identify key processes in the working of large language models
 - Examine learner needs, and identify opportunities to utilize AI in learning environments. 
