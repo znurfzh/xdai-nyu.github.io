@@ -12,7 +12,7 @@ Speculate AI Futures: Consider your current learning environment. How do you gai
 
 Now you take the role of a given stakeholder in this future world. What would your role as this stakeholder be, in this future learning environment? 
 
-**[Check out the pre-class setup instructions here](xdai-nyu.github.io)**{: .label .label-red }
+**[Check out the pre-class setup instructions here](/)**{: .label .label-purple }
 
 *No readings prior to the introductory class.*
 
