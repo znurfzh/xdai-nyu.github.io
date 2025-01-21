@@ -4,7 +4,7 @@ title: AI systems
 
 March 11
 : [Building blocks of AI: Neural Networks ](#)
-  : [Project update 3: Due 3/17](https://drive.google.com/drive/folders/1OTvBq2B6INIgzztQ8nLQzgztQdF9o0pB?usp=drive_link), [Reading reflections](#)
+  : [Project update 4: Due 3/17](https://drive.google.com/drive/folders/1OTvBq2B6INIgzztQ8nLQzgztQdF9o0pB?usp=drive_link), [Reading reflections](#)
 
 March 18
 : **Project Check-in**{: .label .label-purple }[Projects](#)
@@ -16,7 +16,7 @@ March 25
 
 April 1
 : **Prank Day**{: .label .label-yellow } [How Large Language Models work](#)
-  : [Assignment 4: Due 4/7](https://drive.google.com/drive/folders/1HNJZool1fW6YaXpLU0RpKXOOv0dbecaO?usp=drive_link), [Reading reflections](#)
+  : [Assignment 7: Due 4/7](https://drive.google.com/drive/folders/1HNJZool1fW6YaXpLU0RpKXOOv0dbecaO?usp=drive_link), [Reading reflections](#)
 
 April 8
 : [Making with AI](#)
