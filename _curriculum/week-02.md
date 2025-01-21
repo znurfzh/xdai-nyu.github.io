@@ -20,4 +20,5 @@ We often hear of the human and AI dichotomy, but can they flourish in tandem? St
 ## Assignment 1
 Code activity (Jupyter Notebook) - Introduction to using AI APIs. Through a guided code notebook, students will be able to use AI APIs to design a learning chatbot (e.g. a history bot that guesses a historical figure or event). This activity will also get students up to speed with Python programming.
 
+**[Assignment Instructions:](https://docs.google.com/document/d/14QJG9sjJIDBghf_ZW9fAytvVz8mv6U07IBMRT_1UujE/edit?usp=drive_link)
 **[Assignment Submission:](https://drive.google.com/drive/folders/1ABT0CudvDmRTKHt4jS1QjwobWGbnJB8s?usp=drive_link)** *(due on 01/27, 5:00 PM EST)*
