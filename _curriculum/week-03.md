@@ -11,6 +11,8 @@ Students will examine current day AI systems (such as text-generation, vision to
 ## Week 3 Readings
 1. Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., ... & Horvitz, E. (2019, May). Guidelines for human-AI interaction. In Proceedings of the 2019 chi conference on human factors in computing systems (pp. 1-13).
 1. Costanza-Chock, S. (2018). Design justice, AI, and escape from the matrix of domination. Journal of Design and Science, 3(5), 1-14.
+
+### Supplemental Reading (optional)
 1. Ali, S. (2024). Guidelines for Inclusive Creative Human-AI Interaction 
 
 **Reading Reflection: []()** *(due on 02/03, 5:00 PM EST)*

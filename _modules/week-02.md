@@ -4,7 +4,7 @@ title: AI in Learning
 
 Feb 11
 : [Technology in Learning](#)
-  : [Assignment 4: Due 2/17](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
+  : [Project Update 3: Due 2/17](https://drive.google.com/drive/folders/1OTvBq2B6INIgzztQ8nLQzgztQdF9o0pB?usp=drive_link), [Reading reflections](#)
 
 Feb 18
 : [AI in Learning I](#)

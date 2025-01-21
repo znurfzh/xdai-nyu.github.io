@@ -8,7 +8,10 @@ We often hear of the human and AI dichotomy, but can they flourish in tandem? St
 
 
 ## Week 2 Readings
+1. [Vaithilingam, P., Arawjo, I., & Glassman, E. L. (2024, July). Imagining a future of designing with ai: Dynamic grounding, constructive negotiation, and sustainable motivation. In Proceedings of the 2024 ACM Designing Interactive Systems Conference (pp. 289-300).](https://glassmanlab.seas.harvard.edu/papers/imagining_dis24.pdf)
 1. [Shneiderman, B. (2020). Human-centered artificial intelligence: Reliable, safe & trustworthy. International Journal of Human–Computer Interaction, 36(6), 495-504.](https://arxiv.org/pdf/2002.04087) 
+
+### Supplemental Reading (optional)
 1. [Riedl, M. O. (2019). Human‐centered artificial intelligence and machine learning. Human behavior and emerging technologies, 1(1), 33-36.](https://faculty.cc.gatech.edu/~riedl/pubs/hbet.pdf)
 1. [Ehsan, U., Liao, Q. V., Muller, M., Riedl, M. O., & Weisz, J. D. (2021, May). Expanding explainability: Towards social transparency in ai systems. In Proceedings of the 2021 CHI conference on human factors in computing systems (pp. 1-19).](https://dl.acm.org/doi/pdf/10.1145/3411764.3445188)
 

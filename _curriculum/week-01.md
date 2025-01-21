@@ -8,7 +8,9 @@ This introductory class will go over the course syllabus, course expectations, a
 
 
 ## In-class Activity
-Speculate AI Futures: Working with partners, students will speculate on a futuristic learning environment, and how they would incorporate technology into this system to make it their ideal learning environment, and share with the class. 
+Speculate AI Futures: Consider your current learning environment. How do you gain new knowledge? How do you pick new skills? How do you interact with your peers and technology while learning? Now imagine a futuristic learning environment. Consider using emerging technologies to design an ideal learning environment. Create a scenario, in the form of a short story, of a learner living in this speculative world. 
+
+Now you take the role of a given stakeholder in this future world. What would your role as this stakeholder be, in this future learning environment? 
 
 *No readings prior to the introductory class.*
 
