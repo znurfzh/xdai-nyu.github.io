@@ -16,6 +16,8 @@ Now you take the role of a given stakeholder in this future world. What would yo
 
 *No readings prior to the introductory class.*
 
+[Slides](https://docs.google.com/presentation/d/1DFDuZwZhlsn9SFgo6Tmei7Q4YxeZtqfStXUv-E7pxOA/edit?usp=sharing)
+
 
 <!-- 1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
 1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
