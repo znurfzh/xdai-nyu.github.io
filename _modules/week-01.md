@@ -8,7 +8,7 @@ Jan 21
 
 Jan 28
 : [Designing Human-centered AI - I](#)
-  : [Assignment 2: Due 2/3](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
+  : [Assignment 2: Due 2/3](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](https://forms.gle/KbzNnbGc4bGUfCYK8)
 
 Feb 4
 : **Remote**{: .label .label-purple }[ Designing Human-centered AI - II; Guest Lecture: Dr. Sooyeon Jeong](#)
@@ -21,3 +21,5 @@ Feb 4
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
  -->
+
+

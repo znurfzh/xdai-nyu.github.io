@@ -15,15 +15,19 @@ Students will examine current day AI systems (such as text-generation, vision to
 ### Supplemental Reading (optional)
 1. [Ali, S. (2024). Guidelines for Inclusive Creative Human-AI Interaction](https://safinahali.com/creative-hai-cards.pdf)
 
-**Reading Reflection: []()** *(due on 02/03, 5:00 PM EST)*
+**Reading Reflection: [https://forms.gle/KbzNnbGc4bGUfCYK8](https://forms.gle/KbzNnbGc4bGUfCYK8)** *(due on 02/03, 5:00 PM EST)*
+
 
 ## Assignment 2
-Code activity (Jupyter Notebook) - Consider guiding design principles of your learning activity (e.g. equity). How will you adapt this activity keeping these design principle(s) in mind? Submit an updated version of your code notebook. 
+Ideate on final project ideas, and prepare two minute pitches for your final projects. Remember that these are preliminary ideas of what you're interested in, and you don't have to commit to them for your final projects. 
 
-**[Assignment Submission:](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link)** *(due on 02/03, 5:00 PM EST)*
 
-## Project Update 1
-Ideate on final project ideas, and prepare two minute pitches for their final projects that includes their target learner, interaction modality, and learning objectives. Students will form groups of 2-3 based on interest alignment. 
+1. Make a copy of the slide template in the assignment folder, and fill in the details of your project ideas. Be sure to rename the slides to your name. 
+1. Slide 1: Discuss your target learner(s), interaction modality, and learning objectives. 
+1. Slide 2: Write a research question that you are interested in studying with this learning experience. 
+1. You will be presenting your 2-minute pitches on 02/11. This will be followed by group formations based on interest synergy. 
 
-*Project update is not due, just come ready with your pitches for next week!*  
+
+**Assignment 2: [https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=sharing](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=sharing)** *(due on 02/03, 5:00 PM EST)*
+
 
