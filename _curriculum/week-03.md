@@ -22,7 +22,7 @@ Students will examine current day AI systems (such as text-generation, vision to
 Ideate on final project ideas, and prepare two minute pitches for your final projects. Remember that these are preliminary ideas of what you're interested in, and you don't have to commit to them for your final projects. 
 
 
-1. Make a copy of the slide template in the assignment folder, and fill in the details of your project ideas. Be sure to rename the slides to your name. 
+1. Make a copy of the [slide template](https://docs.google.com/presentation/d/1XGbRaFgAAyOP-NN1gvFcRQSVKCWVkIrGtR5mq8w6H2k/copy) in the assignment folder, and fill in the details of your project ideas. Be sure to rename the slides to your name. 
 1. Slide 1: Discuss your target learner(s), interaction modality, and learning objectives. 
 1. Slide 2: Write a research question that you are interested in studying with this learning experience. 
 1. You will be presenting your 2-minute pitches on 02/11. This will be followed by group formations based on interest synergy. 
