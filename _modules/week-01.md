@@ -12,7 +12,7 @@ Jan 28
 
 Feb 4
 : **Remote**{: .label .label-purple }[ Designing Human-centered AI - II; Guest Lecture: Dr. Sooyeon Jeong](#)
-  : [Project Update 1: Due 2/10](https://drive.google.com/drive/folders/1hbx0OF1QKc88oBTR3nn64RTYAzKkrHsr?usp=drive_link), [Reading reflections](#)
+  : [Reading reflections](https://forms.gle/4Ts1yqvBxSLtdj1Z8)
 
 
 
