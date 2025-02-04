@@ -23,7 +23,7 @@ Write or draw a brief scenario explaining how you imagine AI will transform teac
 **Reading Reflection: []()** *(due on 02/17, 5:00 PM EST)*
 
 
-## Project Update 3
+<!-- ## Project Update 3
 Students will conduct a literature review in the use of technology addressing the learning needs they identified. They will write two accounts of projects or papers addressing (or failing to address) those learning needs. 
 
-**Project Update Submission: []()** *(due on 02/17, 5:00 PM EST)*
+**Project Update Submission: []()** *(due on 02/17, 5:00 PM EST)* -->
