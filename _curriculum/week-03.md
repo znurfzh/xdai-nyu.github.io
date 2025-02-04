@@ -30,4 +30,7 @@ Ideate on final project ideas, and prepare two minute pitches for your final pro
 
 **Assignment 2: [https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=sharing](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=sharing)** *(due on 02/03, 5:00 PM EST)*
 
+[Class Slides](https://docs.google.com/presentation/d/1giYTt-lomq9IC-YSWjWsFSPVJQnFPDeC9lLth3wsbms/edit?usp=sharing)
+[Intro to AI Slides](https://docs.google.com/presentation/d/13vcGQgefdrNTq_X9NxDwsndV9_haVblIV9kZdNENlI8/edit?usp=sharing)
+
 
