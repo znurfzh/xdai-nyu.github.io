@@ -17,7 +17,7 @@ In a flipped classroom style, we discuss historic case studies of instructional 
 
 **Reading Reflection: [https://forms.gle/i9m6SCPz3JDezm6o8](https://forms.gle/i9m6SCPz3JDezm6o8)** *(due on 02/17, 5:00 PM EST)*
 
-## Project Update 2
+## Project Update 1
 Meet with your teams to decide on your problem statement. Teams will write the first draft of their problem statement, including:
 1. Outline their target learning audience
 2. An identified learning need (with references, or personal experiences) 
