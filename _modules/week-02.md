@@ -4,7 +4,7 @@ title: AI in Learning
 
 Feb 11
 : [Technology in Learning](#)
-  : [Project Update 3: Due 2/17](https://drive.google.com/drive/folders/1OTvBq2B6INIgzztQ8nLQzgztQdF9o0pB?usp=drive_link), [Reading reflections](#)
+  : [Project Update 1: Due 2/17](https://drive.google.com/drive/folders/1hbx0OF1QKc88oBTR3nn64RTYAzKkrHsr?usp=sharing), [Reading reflections](#)
 
 Feb 18
 : [AI in Learning I](#)
