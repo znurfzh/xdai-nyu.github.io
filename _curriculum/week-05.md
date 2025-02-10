@@ -15,7 +15,7 @@ In a flipped classroom style, we discuss historic case studies of instructional 
 2. [A History of Instructional Design and Technology: Part I: A History of Instructional Media, Robert A, Reiser, 2001](https://docdrop.org/static/drop-pdf/A-history-of-instructional-design-and-technology-1-8nOHG.pdf)
 3. [Technology and School Reform: A View from Both Sides of the Tracks, Mark Warschauer, 2000](https://drive.google.com/file/d/1Myr49eNCnkLDnCTdr_sbOnL61CzTVXs3/view?usp=sharing)
 
-**Reading Reflection: []()** *(due on 02/17, 5:00 PM EST)*
+**Reading Reflection: [https://forms.gle/i9m6SCPz3JDezm6o8](https://forms.gle/i9m6SCPz3JDezm6o8)** *(due on 02/17, 5:00 PM EST)*
 
 ## Project Update 2
 Meet with your teams to decide on your problem statement. Teams will write the first draft of their problem statement, including:
