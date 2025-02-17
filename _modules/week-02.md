@@ -8,14 +8,14 @@ Feb 11
 
 Feb 18
 : [NO CLASS - Monday schedule](#)
-  : []
+  : 
 
 Feb 25
 : [AI in Learning](#)
   : [Assignment 6: Due 3/3](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 March 4
-: **Remote**{: .label .label-purple } [TBD](#)
+: **Remote**{: .label .label-purple } [AI Prototyping](#)
 
 <!-- March 11
 : [Runtime Analysis](#)

@@ -1,5 +1,5 @@
 ---
-title: TBA
+title: AI prototyping and Heuristic Evaluation [REMOTE]
 week: 7
 date: 2025-03-04
 ---
