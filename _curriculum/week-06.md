@@ -1,28 +1,38 @@
 ---
-title: AI in Learning - II
+title: AI in Learning 
 week: 6
 date: 2025-02-25
 ---
 
-Students will explore key concepts in personalized ML algorithms, AI for assistive learning, adaptive systems, AI tutors, social AI companions, educational data mining and learning analytics. We will dive deeper into AI for fostering learning behaviors, such as, curiosity, growth mindset and creativity. 
+In a flipped classroom style, we discuss historic case studies of instructional technology, and students’ lived experiences of their long-term impact. What changed with calculators in the classroom? With computers? With AI? We will discuss scaffolding using AI chatbots, and early findings from research pieces discussing personalized scaffolding. Students will explore key concepts in personalized ML algorithms, AI for assistive learning, adaptive systems, AI tutors, social AI companions, educational data mining and learning analytics. We will dive deeper into AI for fostering learning behaviors, such as, curiosity, growth mindset and creativity. 
 
 ## In-class Activity
  Students will interact with a co-writing tool scaffolding different writing styles and vocabulary development in storytelling. Students will reflect on ownership in a co-created human-AI artifact. 
 
+## Week 5 Readings
 
-## Week 6 Readings
-Vazhayil, A., Shetty, R., Bhavani, R. R., & Akshay, N. (2019, December). Focusing on teacher education to introduce AI in schools: Perspectives and illustrative findings. In 2019 IEEE tenth international conference on Technology for Education (T4E) (pp. 71-77). IEEE.
-Ali, S., Devasia, N., Park, H. W., & Breazeal, C. (2021). Social robots as creativity eliciting agents. Frontiers in Robotics and AI, 8, 673730.
-Chen, H., Alghowinem, S., Breazeal, C., & Park, H. W. (2024, March). Integrating Flow Theory and Adaptive Robot Roles: A Conceptual Model of Dynamic Robot Role Adaptation for the Enhanced Flow Experience in Long-term Multi-person Human-Robot Interactions. In Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (pp. 116-126).
+1. Self-study: Technology has transformed educational spaces and pedagogies in the past. Choose a technology (i.e., radio, television, computers, or the internet) and research (use any sources: internet, magazines, movies, etc.) its reported impact on classrooms and teacher pedagogy.
+2. [A History of Instructional Design and Technology: Part I: A History of Instructional Media, Robert A, Reiser, 2001](https://docdrop.org/static/drop-pdf/A-history-of-instructional-design-and-technology-1-8nOHG.pdf)
+3. [Technology and School Reform: A View from Both Sides of the Tracks, Mark Warschauer, 2000](https://drive.google.com/file/d/1Myr49eNCnkLDnCTdr_sbOnL61CzTVXs3/view?usp=sharing)
 
 
 ### Supplemental Reading (optional): 
-1. Park, H. W., Rosenberg-Kima, R., Rosenberg, M., Gordon, G., & Breazeal, C. (2017, March). Growing growth mindset with a social robot peer. In Proceedings of the 2017 ACM/IEEE international conference on human-robot interaction (pp. 137-145).
+1. Vazhayil, A., Shetty, R., Bhavani, R. R., & Akshay, N. (2019, December). Focusing on teacher education to introduce AI in schools: Perspectives and illustrative findings. In 2019 IEEE tenth international conference on Technology for Education (T4E) (pp. 71-77). IEEE.
+1. Ali, S., Devasia, N., Park, H. W., & Breazeal, C. (2021). Social robots as creativity eliciting agents. Frontiers in Robotics and AI, 8, 673730.
 
-**Reading Reflection: []()** *(due on 02/24, 5:00 PM EST)*
+**Reading Reflection: [https://forms.gle/i9m6SCPz3JDezm6o8](https://forms.gle/i9m6SCPz3JDezm6o8)** *(due on 02/24, 5:00 PM EST)*
+
+## Project Update 1
+Meet with your teams to decide on your problem statement. Teams will write the first draft of their problem statement, including:
+1. Outline their target learning audience
+2. An identified learning need (with references, or personal experiences) 
+3. A rationale for how you imagine AI may assist this learning need
+4. Footnote: Contribution of each group member (this footnote need to be a short line after each group submission)
+
+**Project Update Submission [GROUP]: [Project Update 1](https://drive.google.com/drive/folders/1hbx0OF1QKc88oBTR3nn64RTYAzKkrHsr?usp=sharing)** *(due on 02/24, 5:00 PM EST)* -->
 
 
-## Project Update 4
-Students will write their design plan for their final project. This may include rapid paper prototypes, sketches, blueprints, or design plans. [see sample]
+<!-- ## Project Update 3
+Students will conduct a literature review in the use of technology addressing the learning needs they identified. They will write two accounts of projects or papers addressing (or failing to address) those learning needs. 
 
-**Project Update Submission: []()** *(due on 02/24, 5:00 PM EST)*
+**Project Update Submission: []()** *(due on 02/17, 5:00 PM EST)* -->
