@@ -11,7 +11,9 @@ Students play the contours to classification game, where students act as nodes i
 
 
 ## Week 8 Readings
-1. Lee, I., & Ali, S. (2021, May). The contour to classification game. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 15583-15590).
+1. [Lee, I., & Ali, S. (2021, May). The contour to classification game. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 15583-15590).](https://drive.google.com/file/d/1F3LrbjtIY7EPkTotEAIqQD3P4BA6fGrz/view?usp=drive_link)
+1. [Heikkilä, M., Arnett, S. (2024, Dec) This is where the data to build AI comes from. MIT Tech review.](https://drive.google.com/file/d/15upANkyoWyxV3yCdheVX59sZg5neU50k/view?usp=drive_link)
+
 **Reading Reflection: []()** *(due on 03/10, 5:00 PM EST)*
 
 

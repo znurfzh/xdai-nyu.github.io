@@ -17,8 +17,8 @@ In a flipped classroom style, we discuss historic case studies of instructional 
 
 
 ### Supplemental Reading (optional): 
-1. Vazhayil, A., Shetty, R., Bhavani, R. R., & Akshay, N. (2019, December). Focusing on teacher education to introduce AI in schools: Perspectives and illustrative findings. In 2019 IEEE tenth international conference on Technology for Education (T4E) (pp. 71-77). IEEE.
-1. Ali, S., Devasia, N., Park, H. W., & Breazeal, C. (2021). Social robots as creativity eliciting agents. Frontiers in Robotics and AI, 8, 673730.
+1. [Vazhayil, A., Shetty, R., Bhavani, R. R., & Akshay, N. (2019, December). Focusing on teacher education to introduce AI in schools: Perspectives and illustrative findings. In 2019 IEEE tenth international conference on Technology for Education (T4E) (pp. 71-77). IEEE.](https://drive.google.com/file/d/1g-vymkg2UIYsmEblUJ75ml4aLZx_MnHv/view?usp=drive_link)
+1. [Ali, S., Devasia, N., Park, H. W., & Breazeal, C. (2021). Social robots as creativity eliciting agents. Frontiers in Robotics and AI, 8, 673730.](https://drive.google.com/file/d/1MJZZrpLOu1gbd4qKuiopnYCFdTrGOqBa/view?usp=drive_link)
 
 **Reading Reflection: [https://forms.gle/i9m6SCPz3JDezm6o8](https://forms.gle/i9m6SCPz3JDezm6o8)** *(due on 02/24, 5:00 PM EST)*
 
