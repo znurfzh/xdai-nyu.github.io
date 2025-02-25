@@ -1,4 +1,4 @@
-# Title 
+# Title of your project
 ## Team Name
 ## Project Members: 
 ## Project Brief:  
