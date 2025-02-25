@@ -25,6 +25,8 @@ This is the class website where the assignments, announcements, schedules, ofice
 - [projects](projects.md)
 - [slack channel](https://ectnyu.slack.com/archives/C08A4NVRWL8)
 - [assignment submission folder](https://drive.google.com/drive/folders/10QJY4eDSQVoGuU9s-fj3FHR63pGw777z?usp=drive_link)
+- [Github repository](https://github.com/xdai-nyu/xdai-nyu.github.io)
+- [Create with AI Slides](https://docs.google.com/presentation/d/1BZOD8KtlNrZ89DCSSoH-4hadH3lGdMqV_q-9bUGR1Cc/edit?usp=sharing)
 
 ## Pre-class To-do: 
 - Carry your laptop to the class. 
