@@ -1,4 +1,10 @@
-#Final Projects
+---
+layout: page
+title: Projects
+description: A listing of all the course projects
+---
+
+# Final Projects
 
 - [AI-Powered Scenario-Based Entrepreneurship Practice Platform (Team Monopoly)](projects/monopoly.md)
 - [A game-based learning platform for learning basic coding](projects/coding-game.md)
