@@ -1,6 +1,11 @@
-# Title 
-## Team Name
-## Project Members: 
-## Project Brief:  
+# Syllabot 
+## Learning to read through gamified embodied storytelling
+## Project Members: Cass Scheirer and Melody Hammer
+## Target Learning Audience: Pre-K and elementary school students 
+## Modalities: A combination of screen-based interactions and physical engagement with a robotic toy.
 
-Some words here 
+### Identified Learner Needs: Young learners (ages 3-10) often struggle with attention, phonics, word recognition, and comprehension, requiring interactive and multimodal reinforcement from an instructive body (Ehri, 2005). Traditional reading instruction lacks personalization and fails to address the diverse needs of early learners, especially those with short attention spans or learning difficulties. Research in cognitive science suggests that multimodal learning technologies — combining visual, auditory, and kinesthetic interactions — may enhance retention and comprehension (Mayer, 2021). Indeed, interactive multimedia approaches to literacy education, such as games (Franceschini et al., 2015; Gorgen et al., 2020), apps (Chuang et al., 2023) and augmented reality books (Şimşek et al., 2023) have been developed in response. These tools have shown to enhance the reading experience and improve learning, especially for students with learning disabilities. 
+
+However, these tools also have multiple limitations. Many of them feature pre-defined stories and require the use of screens, limiting the meaningfulness of the reading content and the potential for embodied cognition to reinforce the representation of literacy concepts. Further, parents remain skeptical of digital applications as a replacement for traditional books (Kucirkova et al., 2020; Azir et al., 2022). Finally, many of these applications still require or encourage parental involvement, which can be hard on busy parents and parents of slow readers (Mudzielwana, 2014; Melody’s personal experience). Few learning designers have explored how AI-enhanced social robots have the potential to target all of these issues by personalizing, physicalizing, and autonomizing the process of learning to read. 
+
+### Rationale for AI Assistance: Our project leverages AI-driven personalization, interactive storytelling, and embodied cognition to create a more engaging and effective reading experience. A social robot with a visual interface will collaborate with the learner to develop a custom gamified storytelling experience in which the robot prompts the learner to read instructions for physical actions to be acted out related to the story. Real-time assessment, gradual visual hints, collaboration, and physical movement facilitated by the robotic toy will support the learner in decoding words, improving fluency, and reinforcing memory while also engaging their creative and physical senses. These approaches align with constructivist learning theories, emphasizing active participation and meaningful interaction in literacy development.
