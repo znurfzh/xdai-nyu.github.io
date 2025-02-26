@@ -1,4 +1,4 @@
-# AI-Feedback Buddy 
+## AI-Feedback Buddy 
 ## ExplAIners
 ## Project Members:  
 Jessica Masciovecchio, Lucy Castro, Merry Cui

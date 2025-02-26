@@ -1,4 +1,4 @@
-# Title MathParent.AI
+## Title MathParent.AI
 ## Team Name Capybara
 ## Project Members: Zheng Huang, Ruolin Zhang
 ## Project Brief:  
