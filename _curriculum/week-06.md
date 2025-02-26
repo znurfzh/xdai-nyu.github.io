@@ -31,6 +31,8 @@ Meet with your teams to decide on your problem statement. Teams will write the f
 
 **Project Update Submission [GROUP]: [Project Update 1](https://drive.google.com/drive/folders/1hbx0OF1QKc88oBTR3nn64RTYAzKkrHsr?usp=sharing)** *(due on 02/24, 5:00 PM EST)* -->
 
+[Class Slides](https://docs.google.com/presentation/d/1nso2o-amEhQjcWBj0w9pvI5nN102HamTbwz7FFXhPN0/edit?usp=sharing)
+[Creative AI Slides](https://docs.google.com/presentation/d/1BZOD8KtlNrZ89DCSSoH-4hadH3lGdMqV_q-9bUGR1Cc/edit?usp=sharing)
 
 <!-- ## Project Update 3
 Students will conduct a literature review in the use of technology addressing the learning needs they identified. They will write two accounts of projects or papers addressing (or failing to address) those learning needs. 
