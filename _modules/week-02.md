@@ -15,7 +15,7 @@ Feb 25
   : [Assignment 6: Due 3/3](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
 
 March 4
-: **Remote**{: .label .label-purple } [AI Prototyping](#)
+: **Remote**{: .label .label-purple } [AI Prototyping](https://drive.google.com/drive/folders/1jOFDYALZ-QlNPwXB1leLOAqv5BcKKYNT?usp=drive_link), [Reading reflections](https://forms.gle/vnL2HF3TD1q65jTG7)
 
 <!-- March 11
 : [Runtime Analysis](#)

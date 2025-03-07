@@ -5,7 +5,9 @@ date: 2025-03-04
 ---
 
 
-## Project Update 4
+## Project Update 3
+Students will use the needfinding techniques discussed in class to investigate user/learner needs in their chosen topic. Update your github pages to add findings from your needfinding activities. 
+
 Students will write their design plan for their final project. This will include rapid paper prototypes, sketches, blueprints, or design plans. 
 
-**Project Update Submission: []()** *(due on 02/24, 5:00 PM EST)*
+Nothing is due this week - see next week for submission info.
