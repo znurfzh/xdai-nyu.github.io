@@ -1,6 +1,7 @@
-## Title MathParent.AI
-## Team Name Capybara
-## Project Members: Zheng Huang, Ruolin Zhang
-## Project Brief:  
-
-Some words here 
+## AI-MathParent
+## Team Name:
+Capypara
+## Project Members: 
+Zheng Huang, Ruolin Zhang
+## Project Brief: 
+This initiative explores how AI-enabled educational technologies can empower parents to support their children’s math learning—without needing direct teaching expertise. Focusing on busy or non-specialist caregivers, the project aims to design intuitive tools that automate progress tracking, generate personalized learning pathways, and deliver actionable insights tailored to each child’s needs.
