@@ -1,6 +1,6 @@
 ## Syllabot 
 ## Learning to read through gamified embodied storytelling
-## Project Members: Cass Scheirer and Melody Hammer
+## Project Members: Melody Hammer, Cass Scheirer Shengkai (Kai) Xu
 ## Target Learning Audience: Pre-K and elementary school students 
 ## Modalities: A combination of screen-based interactions and physical engagement with a robotic toy.
 
