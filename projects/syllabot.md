@@ -75,7 +75,6 @@ Link to survey: https://docs.google.com/forms/d/13GSBiD8pYiUozUOrHxml1rVSytgp6z4
 Parent survey results
 
 Link to survey: https://docs.google.com/forms/d/13GSBiD8pYiUozUOrHxml1rVSytgp6z4pku_LKZafF68/edit#responses
-<img width="748" alt="Question3" src="https://github.com/user-attachments/assets/077972ff-6e1f-4553-b2e2-0edfcd176011" />
 
 **Common Reading Challenges**
 The biggest challenge for children learning to read is blending sounds into words (83.3%).
