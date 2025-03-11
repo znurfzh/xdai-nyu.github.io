@@ -21,3 +21,7 @@ Students play the contours to classification game, where students act as nodes i
 Students will work on developing early working prototypes of their projects. Submit the designs of your early prototypes.
 **Project Update Submission: [Rapid Prototypes and Needfinding reports](https://drive.google.com/drive/folders/1jOFDYALZ-QlNPwXB1leLOAqv5BcKKYNT?usp=drive_link)** *(due on 03/10, 5:00 PM EST)*
 
+
+
+[Create with AI Slides](https://docs.google.com/presentation/d/1BZOD8KtlNrZ89DCSSoH-4hadH3lGdMqV_q-9bUGR1Cc/edit?usp=sharing)
+[Class Slides](https://docs.google.com/presentation/d/1nxSWbpkQ7hxDkA-GNHGPJtJIjeLFJbTH1aOfjqGW1B0/edit?usp=sharing)
