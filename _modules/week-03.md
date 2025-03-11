@@ -8,8 +8,8 @@ March 11
 
 March 18
 : **Project Check-in**{: .label .label-purple }[Projects](#)
-<!--   : [Assignment 8: Due 3/24](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link), [Reading reflections](#)
- -->
+  : [Project update 5: Due 3/24](https://drive.google.com/drive/folders/1lnL8kJfupv4-aQXAtY42xghxrmac5VQ7?usp=drive_link)
+
 March 25
 : **Spring Break**{: .label .label-green }
   : Enjoy the break! 
