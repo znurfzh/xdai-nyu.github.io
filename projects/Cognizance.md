@@ -18,6 +18,7 @@ The AI will provide scaffolded reading support through:
 2. Encouraging Constructive Negotiation – AI challenges students with counterarguments, debate prompts, and opposing viewpoints.
 
 We translated those into several features:
+
 **Must Have**: 
 1. ✅ Personalized Questioning: Provide a scaffolding based on students’ personal ZPD and needs using the Socratic method and structured breakdown.
 2. ✅ Context-Aware Responses: AI grounds responses in course materials (RAG approach).
