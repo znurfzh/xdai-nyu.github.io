@@ -37,10 +37,70 @@ _“Young children benefit from physical interaction as part of the learning pro
 
 ## Secondary Research
 ### Literature Review
-Added by Cass (Slide 11) 
+**Build Your Own Robot Friend: An Open-Source Learning Module for Accessible and Engaging AI Education**
+Used an open source 3D printed robot structure and designed an AI/robotics learning module that focused on building that robot from scratch. The researchers created their own fabric “clothing” that the users could use to customize the look of their robot — however this clothing did not have any relevance to the user’s identity and there were limited options. They found that the learners felt like the workshop helped them learn and be interested more about robotics and AI, but learning was self-reported as it was only a usability study. They did not collect data on how the choice of clothing affected the learning experience.
 
-### Commercial Solutions Research
-Will add on 3/11 - Melody
+Shi, Z., O'Connell, A., Li, Z., Liu, S., Ayissi, J., Hoffman, G., Soleymani, M., & Matarić, M. J. (2024). Build your own robot friend: An open-source learning module for accessible and engaging AI education. arXiv. https://doi.org/10.48550/arXiv.2402.01647
+
+**Child Perception of Humanoid Robot Appearance and Behavior**
+Researchers asked 578 children to evaluate images and videos of different physical designs of robots. These designs ranged on a scale matching the uncanny valley graph, from mechanical to zoomorphic to complete anthropomorphism. Results show that zoomorphic designs are the most interesting/engaging to children both socially and physically. They also found that the curve of the ratings of dynamic robots is much flatter than the uncanny valley graph predicts, meaning that anthropomorphic movement can mitigate the negative effects of uncanny visual designs.
+Tung, F.-W. (2016). Child perception of humanoid robot appearance and behavior. International Journal of Humanoid Robotics, 13(01), 1550036.
+
+**Impacting the Perception of Socially Assistive Robots- Evaluating the effect of Visual Qualities among Children**
+Researchers analyzed 20 socially assistive robots into 5 categories related to their design features and asked children to assess each robot according to these features. They found that design features such as edge type and color had a significant impact on the children’s perception of robot gender and vibe.
+
+Liberman-Pincu, O., Oron-Gilad, T., & Parmet, Y. (2021). Impacting the perception of socially assistive robots: Evaluating the effect of visual qualities among children. In 2021 30th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN) (pp. 1186–1192). IEEE. https://doi.org/10.1109/RO-MAN50785.2021.9515458
+
+**Social Robots as Creativity Eliciting Agents**
+Researcher explores how social robots can encourage creativity in children through interactive and collaborative activities. The authors designed experiments where social robots provided feedback and prompts to stimulate creative thinking, demonstrating that children responded positively and showed increased creative output. The study highlights the potential for social robots to serve as engaging and supportive partners in creative learning environments.
+
+Ali, S., Devasia, N., Park, H. W., & Breazeal, C. (2021). Social robots as creativity eliciting agents. Frontiers in Robotics and AI, 8, Article 673730. https://doi.org/10.3389/frobt.2021.673730
+
+
+### Commercial Solution Research
+**LOVOT Robot Cafe (GROOVE X)**
+Designed for emotional bonding, LOVOT is a small, soft robot with a digital face that displays emotions. It moves, reacts to touch, and recognizes its owner.
+
+<img width="447" alt="Lovot2" src="https://github.com/user-attachments/assets/9d1c45a8-b228-49c9-bb67-12376bac7800" />
+
+**Resource links**
+Groove X
+
+SoraNews
+
+YouTube
+
+
+**Technical Features:**
+Over 50 censors, including multiple pressure sensors
+
+• 360 camera view
+
+• Thermal camera
+
+• Two microphones
+
+• Two wheels with trackball system
+
+• Navigation to avoid obstacles
+
+**Cost:**
+$3,000-$5,000
+
+**LOVOT AI Capabilities**
+**Facial Recognition** – uses its camera and AI to recognize different people and develop stronger bonds with those who interact with it the most.
+
+<img width="445" alt="Lovot1" src="https://github.com/user-attachments/assets/d4700a47-b8ef-48e6-9bab-21d9a800b65b" />
+
+
+**Emotional Learning** – It adapts its behavior based on how it is treated, remembering past interactions and responding accordingly.
+
+**Customizable Reactions** – LOVOT learns what kinds of interactions you prefer (e.g., hugs, pats, following you around) and adjusts its responses to make engagement more personal.
+
+**Routine Adaptation** – It recognizes daily routines and might become more active when you usually play with it.
+Voice & Name Recognition – It can remember and respond to its name and certain commands over time.
+
+
 
 ## Research Goals and Methodology
 ### Goal
@@ -137,8 +197,8 @@ Sports and arts & crafts are also popular with 50% engagement.
 Mel to fill out (post 3/10)
 
 ## Storyboarding & Prototyping
-Storyboards (Mel/Cass)
-Add when ready
+<img width="1496" alt="Melody's mood board" src="https://github.com/user-attachments/assets/d46b8492-a583-41c9-a95b-6870774395b1" />
+
 
 AI Prototype (Kai)
 
