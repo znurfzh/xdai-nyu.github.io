@@ -84,7 +84,7 @@ Since our AI pulls from both course materials and relevant external sources, we�
 Another area we’ve been careful about is language accessibility. For students who aren’t native English speakers or are reading outside their comfort zone, we don’t want translation to be a blunt tool. Instead of offering just a basic translation, we’re working toward features that also suggest synonyms or definitions to give users a richer, more contextualized understanding of terms. Inspired by tools like Grammarly, this approach gives learners choices and deepens comprehension rather than flattening meaning.
 Finally, we’re committed to protecting student privacy. If features like note-taking or learning analytics are added, we’ll clearly communicate what data is collected, keep it anonymized, and ensure that participation is fully optional. Our design is grounded in respect for learners’ autonomy, diversity, and trust, because building AI for education isn’t just about improving performance; it’s about supporting meaningful, equitable, and empowering learning experiences.
 
-#Current Prototype
+## Current Prototype
 You can access our prototype through this [Google Colab](https://colab.research.google.com/drive/1yxpv-fcxeDwtS5jPfws8E9OzxzrSh_cV?usp=sharing) file. Currently, we are trying to create a better UI for the tool. Please look forward to the development of Cognizance!
 
 ## References
